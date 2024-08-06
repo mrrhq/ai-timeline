@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 13
+  },
+  "text": {
+    "headline": "Dream Machine",
+    "text": "Luma Labs开发的文生视频模型，通过文本或图像提示生成视频。通过其网站向公众开放。"
+  },
+  "media": {
+    "url": "https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/videos/32.webm",
+    "credit": "<a href=\"https://lumalabs.ai/dream-machine\">媒体来源</a>",
+    "caption": "<a href=\"https://lumalabs.ai/dream-machine\">网站</a>",
+    "thumbnail": "https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/videos/32.webm"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#0f2cf5"
+  }
+}

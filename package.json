@@ -1,0 +1,29 @@
+{
+  "name": "ai-timeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@knight-lab/timelinejs": "^3.9.3",
+    "@mrrhq/shadcn-pro": "npm:@mrrhq/shadcn-pro-edge@latest",
+    "@vueuse/core": "^10.11.0",
+    "csv": "^6.3.10",
+    "nuxt": "^3.12.4",
+    "slug": "^9.1.0",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/ph": "^1.1.14",
+    "@iconify-json/simple-icons": "^1.1.112",
+    "@nuxt/content": "^2.13.2",
+    "@nuxtjs/seo": "2.0.0-rc.16",
+    "less": "^4.2.0",
+    "unocss": "^0.61.9"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 17
+  },
+  "text": {
+    "headline": "GoogLeNet",
+    "text": "谷歌在ILSVRC14上提出的卷积神经网络。"
+  },
+  "media": {
+    "url": "https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-22_at_3.28.59_PM.png",
+    "credit": "<a href=\"https://paperswithcode.com/method/googlenet\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1409.4842v2\"> 论文 </a>",
+    "thumbnail": "https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-22_at_3.28.59_PM.png"
+  },
+  "group": "CNN Model",
+  "background": {
+    "color": "#4388f0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 7
+  },
+  "text": {
+    "headline": "Niji Journey",
+    "text": "Midjourney和Spellbrush合作的漫画/动漫图像模型。使用修改后的Midjourney模型。"
+  },
+  "media": {
+    "url": "https://cdn.discordapp.com/attachments/978239059979812905/1049707449084555284/Fg7v07iUAAAM9sE.png",
+    "credit": "<a href=\"https://twitter.com/nijijourney/status/1589473280175767552/photo/1\"> 媒体来源</a>",
+    "caption": "<a href=\"https://nijijourney.com/\"> 网站 </a>, <a href=\" https://twitter.com/nijijourney/status/1589473280175767552?cxt=HHwWgIDQzdzh-I4sAAAA\">FIRST TWEET",
+    "thumbnail": "https://cdn.discordapp.com/attachments/978239059979812905/1049707449084555284/Fg7v07iUAAAM9sE.png"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#a3b380"
+  }
+}

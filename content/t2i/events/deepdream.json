@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2015,
+    "month": 7,
+    "day": 1
+  },
+  "text": {
+    "headline": "DeepDream",
+    "text": "谷歌的计算机程序以其迷幻的视觉效果为特征。是可视化神经网络如何识别和生成图像模式的首个用例之一。"
+  },
+  "media": {
+    "url": "https://1.bp.blogspot.com/-XZ0i0zXOhQk/VYIXdyIL9kI/AAAAAAAAAmQ/UbA6j41w28o/s1600/building-dreams.png",
+    "credit": "<a href=\"https://ai.googleblog.com/2016/10/supercharging-style-transfer.html\"> 媒体来源</a>",
+    "caption": "<a href=\"https://github.com/google/deepdream\"> GITHUB </a>",
+    "thumbnail": "https://1.bp.blogspot.com/-XZ0i0zXOhQk/VYIXdyIL9kI/AAAAAAAAAmQ/UbA6j41w28o/s1600/building-dreams.png"
+  },
+  "group": "CNN Model",
+  "background": {
+    "color": "#4388f0"
+  }
+}

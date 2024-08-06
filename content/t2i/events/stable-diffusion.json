@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 8,
+    "day": 22
+  },
+  "text": {
+    "headline": "Stable Diffusion",
+    "text": "Stability AI和CompVis开发的开源文生图模型。"
+  },
+  "media": {
+    "url": "https://github.com/CompVis/stable-diffusion/raw/main/assets/stable-samples/img2img/mountains-3.png",
+    "credit": "<a href=\"https://github.com/CompVis/stable-diffusion\"> 媒体来源</a>",
+    "caption": "<a href=\"https://stability.ai/#aboutus\"> 网站 </a>, <a href=\"https://stability.ai/blog/stable-diffusion-public-release\"> RELEASE POST </a>, <a href=\"https://huggingface.co/CompVis/stable-diffusion\">HUGGINGFACE</a>, <a href=\"https://github.com/CompVis/stable-diffusion\">GITHUB</a>",
+    "thumbnail": "https://github.com/CompVis/stable-diffusion/raw/main/assets/stable-samples/img2img/mountains-3.png"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#ca0927"
+  }
+}

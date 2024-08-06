@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 15
+  },
+  "text": {
+    "headline": "Sora",
+    "text": "OpenAI开发的生成视频扩散模型，能够生成一分钟的生成视频，在现实主义和一致性方面超越了所有前代模型。目前仅对少数人开放。"
+  },
+  "media": {
+    "url": "https://cdn.openai.com/tmp/s/title_0.mp4",
+    "credit": "<a href =\"https://openai.com/research/video-generation-models-as-world-simulators\">媒体来源</a>",
+    "caption": "<a href=\"https://openai.com/sora\">网站</a>, <a href=\"https://openai.com/research/video-generation-models-as-world-simulators\">RESEARCH</a>",
+    "thumbnail": "https://cdn.openai.com/tmp/s/title_0.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4c46f0"
+  }
+}

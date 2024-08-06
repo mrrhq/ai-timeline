@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2019,
+    "month": 12,
+    "day": 3
+  },
+  "text": {
+    "headline": "StyleGAN2",
+    "text": "NVIDIA更新版StyleGAN。可以在任何数据集上训练，但最知名的是https://thispersondoesnotexist.com/。"
+  },
+  "media": {
+    "url": "https://pythonawesome.com/content/images/2019/12/StyleGAN2.jpg",
+    "credit": "<a href=\"https://pythonawesome.com/stylegan2-official-tensorflow-implementation/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1912.04958\"> 论文 </a>",
+    "thumbnail": "https://pythonawesome.com/content/images/2019/12/StyleGAN2.jpg"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#76b52c"
+  }
+}

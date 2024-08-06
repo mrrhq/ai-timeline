@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2014,
+    "month": 5,
+    "day": 1
+  },
+  "text": {
+    "headline": "Microsoft COCO",
+    "text": "大规模目标检测、分割和描述数据集，包含超过20万张标注图像。"
+  },
+  "media": {
+    "url": "https://cocodataset.org/images/coco-examples.jpg",
+    "credit": "<a href=\"https://cocodataset.org/#home\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1405.0312\">论文</a>, <a href=\"https://cocodataset.org/#home\">网站</a>",
+    "thumbnail": "https://cocodataset.org/images/coco-examples.jpg"
+  },
+  "group": "Dataset",
+  "background": {
+    "color": "#28b572"
+  }
+}

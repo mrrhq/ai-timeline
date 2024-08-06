@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 5
+  },
+  "text": {
+    "headline": "DALL·E",
+    "text": "OpenAI的首个文生图模型，是其CLIP模型的首次实现。由于代码未发布，这为各种试图模仿它的开源模型铺平了道路。"
+  },
+  "media": {
+    "url": "https://daleonai.com/images/screen-shot-2021-01-06-at-1.37.37-pm.png",
+    "credit": "<a href=\"https://daleonai.com/dalle-5-mins\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2102.12092\"> 论文 </a>, <a href=\"https://openai.com/blog/dall-e/\" >BLOG POST </a>",
+    "thumbnail": "https://daleonai.com/images/screen-shot-2021-01-06-at-1.37.37-pm.png"
+  },
+  "group": "VQ-VAE",
+  "background": {
+    "color": "#4c46f0"
+  }
+}

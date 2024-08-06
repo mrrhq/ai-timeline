@@ -1,0 +1,16 @@
+{
+  "text": {
+    "headline": "Show-1",
+    "text": "Showlab在新加坡国立大学开发的文生视频模型，具有更高效的GPU使用率。"
+  },
+  "media": {
+    "url": "https://showlab.github.io/Show-1/assets/videos/comparison/show1/05.mp4",
+    "credit": "<a href=\"https://showlab.github.io/Show-1/\">媒体来源</a>",
+    "caption": "<a href=\"https://showlab.github.io/Show-1/\">网站</a>, <a href=\"https://arxiv.org/abs/2309.15818\">论文</a>, <a href=\"https://github.com/showlab/Show-1\">GITHUB</a>",
+    "thumbnail": "https://showlab.github.io/Show-1/assets/videos/comparison/show1/05.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#7ea75c"
+  }
+}

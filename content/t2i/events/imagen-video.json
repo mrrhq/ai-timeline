@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 5
+  },
+  "text": {
+    "headline": "Imagen Video",
+    "text": "谷歌的文生视频模型，是他们的T2I模型Imagen的继任者。"
+  },
+  "media": {
+    "url": "https://imagen.research.google/video/videos/fairytale-2.mp4",
+    "credit": "<a href=\"https://imagen.research.google/video/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://imagen.research.google/video/\"> 网站 </a>, <a href=\"https://imagen.research.google/video/paper.pdf\">论文</a>",
+    "thumbnail": "https://imagen.research.google/video/videos/fairytale-2.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4388f0"
+  }
+}

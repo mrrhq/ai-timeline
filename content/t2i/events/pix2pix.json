@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2016,
+    "month": 11,
+    "day": 21
+  },
+  "text": {
+    "headline": "Pix2Pix",
+    "text": "一个条件对抗网络，可以从特定类别的标签图生成图像。"
+  },
+  "media": {
+    "url": "https://phillipi.github.io/pix2pix/images/edges2cats.jpg",
+    "credit": "<a href=\"https://phillipi.github.io/pix2pix/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1611.07004v1\"> 论文 </a>, <a href=\"https://affinelayer.com/pixsrv/\"> DEMO </a>",
+    "thumbnail": "https://phillipi.github.io/pix2pix/images/edges2cats.jpg"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#f72672"
+  }
+}

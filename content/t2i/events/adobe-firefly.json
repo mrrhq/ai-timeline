@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 21
+  },
+  "text": {
+    "headline": "Adobe Firefly",
+    "text": "Firefly是Adobe开发的生成文本到图像工具系列。"
+  },
+  "media": {
+    "url": "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&dpr=1&s=none",
+    "credit": "<a href =\"https://www.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images\">媒体来源</a>",
+    "caption": "<a href=\"https://www.adobe.com/sensei/generative-ai/firefly.html\">网站</a>, <a href=\"https://news.adobe.com/news/news-details/2023/Adobe-Unveils-Firefly-a-Family-of-new-Creative-Generative-AI/default.aspx\">LAUNCH POST</a>",
+    "thumbnail": "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&dpr=1&s=none"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#fa1000"
+  }
+}

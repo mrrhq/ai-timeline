@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 8,
+    "day": 25
+  },
+  "text": {
+    "headline": "DreamBooth",
+    "text": "谷歌通过微调文生图模型输出特定连贯对象。"
+  },
+  "media": {
+    "url": "https://dreambooth.github.io/DreamBooth_files/teaser_static.jpg",
+    "credit": "<a href=\"https://dreambooth.github.io/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://dreambooth.github.io/\"> 论文 </a>",
+    "thumbnail": "https://dreambooth.github.io/DreamBooth_files/teaser_static.jpg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#4388f0"
+  }
+}

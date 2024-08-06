@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2016,
+    "month": 6,
+    "day": 0
+  },
+  "text": {
+    "headline": "StyleTransfer",
+    "text": "一个能够分离图像内容和风格并将不同的内容和风格结合的深度神经网络。"
+  },
+  "media": {
+    "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-jYGbp0Ow1Cc%2FWA6oWw63F7I%2FAAAAAAAABWc%2F8_E5A1dbPP4xeo1GuIGTsYvG6TuXIfmoQCLcB%2Fs1600%2Fimage06.png&f=1&nofb=1",
+    "credit": "<a href=\"https://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf\"> 媒体来源</a>",
+    "caption": "<a href=\"https://openaccess.thecvf.com/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf\"> 论文 </a>",
+    "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-jYGbp0Ow1Cc%2FWA6oWw63F7I%2FAAAAAAAABWc%2F8_E5A1dbPP4xeo1GuIGTsYvG6TuXIfmoQCLcB%2Fs1600%2Fimage06.png&f=1&nofb=1"
+  },
+  "group": "CNN Model",
+  "background": {
+    "color": "#dd723c"
+  }
+}

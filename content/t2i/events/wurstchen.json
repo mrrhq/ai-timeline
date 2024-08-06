@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 1
+  },
+  "text": {
+    "headline": "Würstchen",
+    "text": "一个生成成本更低的文生图模型，因为其高度压缩的潜在空间（名字很搞笑）。"
+  },
+  "media": {
+    "url": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/wuertschen/Anthropomorphic_cat_dressed_as_a_fire_fighter.jpg",
+    "credit": "<a href=\"https://huggingface.co/blog/wuerstchen\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2306.00637\">论文</a>, <a href=\"https://huggingface.co/blog/wuerstchen\">BLOG POST</a>, <a href=\"https://github.com/dome272/Wuerstchen\">GITHUB</a>",
+    "thumbnail": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/wuertschen/Anthropomorphic_cat_dressed_as_a_fire_fighter.jpg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#f72672"
+  }
+}

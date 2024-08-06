@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2016,
+    "month": 12,
+    "day": 10
+  },
+  "text": {
+    "headline": "StackGAN",
+    "text": "最早基于生成对抗网络（GAN）的文生图模型之一，通过将工作负载分成两个独立的阶段生成256x256图像。"
+  },
+  "media": {
+    "url": "https://github.com/hanzhanggit/StackGAN/raw/master/examples/bird1.jpg",
+    "credit": "<a href=\"https://github.com/hanzhanggit/StackGAN\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1612.03242v1\"> 论文</a>, <a href=\"https://github.com/hanzhanggit/StackGAN\">GITHUB</a>",
+    "thumbnail": "https://github.com/hanzhanggit/StackGAN/raw/master/examples/bird1.jpg"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#f59b2d"
+  }
+}

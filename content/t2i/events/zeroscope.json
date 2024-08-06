@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 3
+  },
+  "text": {
+    "headline": "Zeroscope",
+    "text": "一个基于Modelscope的开源文生视频模型。不同版本可用，质量和大小不断增加。由Spencer Sterling开发。"
+  },
+  "media": {
+    "url": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/diffusers/darthvader_cerpense.gif",
+    "credit": "<a href=\"https://huggingface.co/cerspense/zeroscope_v2_576w\">媒体来源</a>",
+    "caption": "<a href=\"https://github.com/camenduru/text-to-video-synthesis-colab\">GITHUB</a>, <a href=\"https://huggingface.co/cerspense/zeroscope_v2_XL\">HUGGINGFACE</a>",
+    "thumbnail": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/diffusers/darthvader_cerpense.gif"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#d40c3c"
+  }
+}

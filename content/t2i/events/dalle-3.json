@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 20
+  },
+  "text": {
+    "headline": "DALL·E 3",
+    "text": "OpenAI开发的第三代DALLE。由于改进了数据集图像的描述，这个模型对文本有更细致的理解，并且能够更好地遵循提示中的描述。"
+  },
+  "media": {
+    "url": "https://images.openai.com/blob/bc8a8a6b-36f2-4774-bc95-c563cb32dcdd/banana.png?trim=0,0,0,0&width=1400",
+    "credit": "<a href=\"https://openai.com/dall-e-3\">媒体来源</a>",
+    "caption": "<a href=\"https://cdn.openai.com/papers/dall-e-3.pdf\">论文</a>, <a href=\"https://openai.com/dall-e-3\">网站</a>",
+    "thumbnail": "https://images.openai.com/blob/bc8a8a6b-36f2-4774-bc95-c563cb32dcdd/banana.png?trim=0,0,0,0&width=1400"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#4c46f0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 5
+  },
+  "text": {
+    "headline": "Potat1",
+    "text": "一个文生视频模型，第一个开源生成1024x576视频的模型。由Camenduru开发，以Modelscope为基础模型。"
+  },
+  "media": {
+    "url": "https://user-images.githubusercontent.com/54370274/244223175-604a8817-5ad3-421a-9240-e5d3b195074d.mp4",
+    "credit": "<a href=\"https://github.com/camenduru/text-to-video-synthesis-colab\">媒体来源</a>",
+    "caption": "<a href=\"https://github.com/camenduru/text-to-video-synthesis-colab\">GITHUB</a>, <a href=\"https://twitter.com/camenduru/status/1665635019790876673?s=20\">TWEET</a>, <a href=\"https://huggingface.co/camenduru/potat1\">演示</a>",
+    "thumbnail": "https://user-images.githubusercontent.com/54370274/244223175-604a8817-5ad3-421a-9240-e5d3b195074d.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#d40c0c"
+  }
+}

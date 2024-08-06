@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2015,
+    "month": 11,
+    "day": 9
+  },
+  "text": {
+    "headline": "alignDRAW",
+    "text": "最早的文生图模型之一，是DRAW网络（深度递归注意力写入器）的扩展。该模型在微软COCO数据集上训练。"
+  },
+  "media": {
+    "url": "https://nathanfradet.com/posts/text_to_image/alignDRAW_results.png",
+    "credit": "<a href=\"https://nathanfradet.com/posts/text-to-image/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1511.02793\">论文</a>",
+    "thumbnail": "https://nathanfradet.com/posts/text_to_image/alignDRAW_results.png"
+  },
+  "group": "Other",
+  "background": {
+    "color": "#719dc9"
+  }
+}

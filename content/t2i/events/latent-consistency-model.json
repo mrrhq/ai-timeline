@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 6
+  },
+  "text": {
+    "headline": "Latent Consistency Model",
+    "text": "一个替代潜在扩散模型的文生图模型，能够在几个推理步骤中生成高质量的图像。一个流行的应用是LCM LoRAs，发布于2023年11月9日，可以加速Stable Diffusion模型中的生成过程。"
+  },
+  "media": {
+    "url": "https://latent-consistency-models.github.io/static/images/4Step_Image/realistic_115_sample_0.png",
+    "credit": "<a href=\"https://latent-consistency-models.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2310.04378\">论文</a>, <a href=\"https://github.com/luosiallen/latent-consistency-model\">GITHUB</a>, <a href=\"https://latent-consistency-models.github.io/\">网站</a>, <a href=\"https://arxiv.org/abs/2311.05556\">LCM LoRAs 论文</a>",
+    "thumbnail": "https://latent-consistency-models.github.io/static/images/4Step_Image/realistic_115_sample_0.png"
+  },
+  "group": "Other",
+  "background": {
+    "color": "#426023"
+  }
+}

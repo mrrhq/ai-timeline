@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 22
+  },
+  "text": {
+    "headline": "Parti",
+    "text": "谷歌的文生图模型，是OpenAI的DALL·E的竞争对手。"
+  },
+  "media": {
+    "url": "https://sites.research.google/parti/paper_images_green_watermark_outputs/figures/scaling_comparison/kangaroo_3.jpg",
+    "credit": "<a href=\"https://parti.research.google/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://github.com/google-research/parti\"> GITHUB </a>, <a href=\"https://parti.research.google/\"> 网站 </a>",
+    "thumbnail": "https://sites.research.google/parti/paper_images_green_watermark_outputs/figures/scaling_comparison/kangaroo_3.jpg"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#4388f0"
+  }
+}

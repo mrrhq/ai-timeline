@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 10,
+    "day": 29
+  },
+  "text": {
+    "headline": "Disco Diffusion",
+    "text": "从Crowson的CLIP引导扩散模型演变而来，Disco Diffusion是一个流行的文生图模型，可以创建画风图像。"
+  },
+  "media": {
+    "url": "https://sweet-hall-e72.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7c0f3149-8bf5-4026-8db0-7b203a1867c3%2Fimage37.png?table=block&id=fe1f6aa6-af84-4fb2-b083-1915eaa63b4c&spaceId=384da9c9-4a1a-4574-9728-bda0273a7d8b&width=1340&userId=&cache=v2",
+    "credit": "<a href=\"https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f#8ebdd89267cd42d0a1b8f3bd3297fd10\"> 媒体来源</a>",
+    "caption": "<a href=\"https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb?authuser=1\"> COLAB </a>, <a href=\"https://twitter.com/gandamu_ml/status/1555086065337114629?s=20&t=Ec7KwfKBAFggNJ1KfHdsTQ\"> TWEET </a>",
+    "thumbnail": "https://sweet-hall-e72.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7c0f3149-8bf5-4026-8db0-7b203a1867c3%2Fimage37.png?table=block&id=fe1f6aa6-af84-4fb2-b083-1915eaa63b4c&spaceId=384da9c9-4a1a-4574-9728-bda0273a7d8b&width=1340&userId=&cache=v2"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#c32713"
+  }
+}

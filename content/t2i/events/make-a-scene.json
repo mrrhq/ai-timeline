@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 14
+  },
+  "text": {
+    "headline": "Make-A-Scene",
+    "text": "更强大的GauGAN版本。Meta的带有标签图的文生图模型。"
+  },
+  "media": {
+    "url": "https://media.cybernews.com/images/featured-big/2022/07/290601794_1176479646540355_5132798628346215961_n.jpeg",
+    "credit": "<a href=\"https://cybernews.com/news/metas-make-a-scene-ai-will-bring-imagination-to-life-in-the-metaverse/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2203.13131\"> 论文 </a>",
+    "thumbnail": "https://media.cybernews.com/images/featured-big/2022/07/290601794_1176479646540355_5132798628346215961_n.jpeg"
+  },
+  "group": "VQ-VAE",
+  "background": {
+    "color": "#285abd"
+  }
+}

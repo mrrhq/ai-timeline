@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 5,
+    "day": 23
+  },
+  "text": {
+    "headline": "Imagen",
+    "text": "谷歌的DALL·E竞争对手，虽然尚未向公众开放。"
+  },
+  "media": {
+    "url": "https://imagen.research.google/main_gallery_images/sprouts-in-the-shape-of-text-imagen.jpg",
+    "credit": "<a href=\"https://imagen.research.google/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2205.11487\"> 论文 </a>, <a href=\"https://imagen.research.google/\"> 网站 </a>",
+    "thumbnail": "https://imagen.research.google/main_gallery_images/sprouts-in-the-shape-of-text-imagen.jpg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#4388f0"
+  }
+}

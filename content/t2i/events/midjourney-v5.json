@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 30
+  },
+  "text": {
+    "headline": "Midjourney v5",
+    "text": "Midjourney发布的第五版。"
+  },
+  "media": {
+    "url": "https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V51_VibrantPoppies.jpg",
+    "credit": "<a href=\"https://docs.midjourney.com/docs/model-version-5\">媒体来源</a>",
+    "caption": "<a href=\"https://www.midjourney.com\">网站</a>, <a href=\"https://docs.midjourney.com/docs/model-version-5\">DOCUMENTATION</a>",
+    "thumbnail": "https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V51_VibrantPoppies.jpg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#091331"
+  }
+}

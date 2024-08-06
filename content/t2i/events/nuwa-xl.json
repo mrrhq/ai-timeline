@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 22
+  },
+  "text": {
+    "headline": "NUWA-XL",
+    "text": "一个多模态文生视频模型，通过不同的扩散模型架构生成长视频。"
+  },
+  "media": {
+    "url": "https://media.arxiv-vanity.com/render-output/7483960/x1.png",
+    "credit": "<a href=\"https://nuwa-infinity.microsoft.com/#/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/pdf/2303.12346.pdf\">论文</a>, <a href=\"https://nuwa-infinity.microsoft.com/#/\">网站</a>",
+    "thumbnail": "https://media.arxiv-vanity.com/render-output/7483960/x1.png"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#f6c137"
+  }
+}

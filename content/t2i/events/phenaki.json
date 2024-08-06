@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 9,
+    "day": 29
+  },
+  "text": {
+    "headline": "Phenaki",
+    "text": "一个用于从文本生成视频的模型，提示可以随时间变化，视频可以长达数分钟。"
+  },
+  "media": {
+    "url": "https://pub-bede3007802c4858abc6f742f405d4ef.r2.dev/stories/teddy_bear_2.gif",
+    "credit": "<a href=\"https://phenaki.video/#\"> 媒体来源</a>",
+    "caption": "<a href=\"https://phenaki.video/#\"> 网站 </a>, <a href=\"https://openreview.net/forum?id=vOEXS39nOF\">论文</a>",
+    "thumbnail": "https://pub-bede3007802c4858abc6f742f405d4ef.r2.dev/stories/teddy_bear_2.gif"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#7DC3A4"
+  }
+}

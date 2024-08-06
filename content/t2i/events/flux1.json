@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 1
+  },
+  "text": {
+    "headline": "FLUX.1",
+    "text": "FLUX.1由前 SAI 开发者组成的Black Forest Labs团队推出首个文本到图像生成模型。现有三个不同版本：Pro，效果最好只支持API调用；Dev，开放权重模型，可用于非商业应用；Schnell，速度最快，基于 Apache 2.0"
+  },
+  "media": {
+    "url": "https://blog.fal.ai/content/images/size/w2000/2024/08/HcS0Kgj7eNkeoC5PCMbkS.jpeg",
+    "credit": "<a href=\"https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/\">媒体来源</a>",
+    "caption": "<a href=\"https://blackforestlabs.ai/\">网站</a>, <a href=\"https://huggingface.co/black-forest-labs/FLUX.1-schnell\">HUGGINGFACE</a>, <a href=\"https://github.com/black-forest-labs/flux\">GITHUB</a>, <a href=\"https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell\">演示</a>, <a href=\"https://blackforestlabs.ai/announcing-black-forest-labs/\">博客文章</a>",
+    "thumbnail": "https://blog.fal.ai/content/images/size/w2000/2024/08/HcS0Kgj7eNkeoC5PCMbkS.jpeg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#102522"
+  }
+}

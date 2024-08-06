@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 9,
+    "day": 29
+  },
+  "text": {
+    "headline": "Make-A-Video",
+    "text": "Meta的文生视频模型。"
+  },
+  "media": {
+    "url": "https://makeavideo.studio/assets/overview.webp",
+    "credit": "<a href=\"https://makeavideo.studio/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://makeavideo.studio/\"> 网站 </a>, <a href=\"https://makeavideo.studio/Make-A-Video.pdf\">论文</a>",
+    "thumbnail": "https://makeavideo.studio/assets/overview.webp"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#285abd"
+  }
+}

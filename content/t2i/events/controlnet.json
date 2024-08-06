@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 2,
+    "day": 10
+  },
+  "text": {
+    "headline": "ControlNet",
+    "text": "一种用于通过不同技术控制扩散模型的神经网络结构。它允许通过img2img对图像结构进行更多控制。不同技术包括边缘检测、深度图、分割图和人体姿态。"
+  },
+  "media": {
+    "url": "https://github.com/lllyasviel/ControlNet/blob/main/github_page/p17.png?raw=true",
+    "credit": "<a href=\"https://github.com/lllyasviel/ControlNet/blob/main/github_page/p17.png\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2302.05543\">论文</a>, <a href=\"https://github.com/lllyasviel/ControlNet\">GITHUB</a>, <a href=\"https://huggingface.co/spaces/hysts/ControlNet\">演示</a>",
+    "thumbnail": "https://github.com/lllyasviel/ControlNet/blob/main/github_page/p17.png?raw=true"
+  },
+  "group": "Other",
+  "background": {
+    "color": "#8281f6"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 27
+  },
+  "text": {
+    "headline": "ERNIE ViLG 2.0",
+    "text": "百度的文生图模型。参数少于DALLE或Stable Diffusion，但在空间理解和颜色匹配方面表现出色。"
+  },
+  "media": {
+    "url": "https://camo.githubusercontent.com/2cc4a89a3169b5e9f86c02e65313c44d0cfc45c0d3e9be689d2f649331bab4a0/68747470733a2f2f6263652e62647374617469632e636f6d2f646f632f414944502f77656e78696e2f335f373264393334332e706e67",
+    "credit": "<a href=\"https://github.com/PaddlePaddle/PaddleHub/blob/develop/modules/image/text_to_image/ernie_vilg/README.md#%E5%9B%9B-prompt-%E6%8C%87%E5%8D%97\"> 媒体来源</a>",
+    "caption": "<a href=\"https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG\"> DEMO </a>, <a href=\"https://arxiv.org/abs/2210.15257\"> 论文 </a>, <a href=\"https://github.com/PaddlePaddle/PaddleHub/blob/develop/modules/image/text_to_image/ernie_vilg/README.md#%E5%9B%9B-prompt-%E6%8C%87%E5%8D%97\">GITHUB</a>",
+    "thumbnail": "https://camo.githubusercontent.com/2cc4a89a3169b5e9f86c02e65313c44d0cfc45c0d3e9be689d2f649331bab4a0/68747470733a2f2f6263652e62647374617469632e636f6d2f646f632f414944502f77656e78696e2f335f373264393334332e706e67"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#ffa500"
+  }
+}

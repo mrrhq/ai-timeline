@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 2,
+    "day": 6
+  },
+  "text": {
+    "headline": "Gen-1",
+    "text": "RunwayML的video2video工具，通过文本或图像提示用生成视觉效果编辑视频。其公开发布在2023年3月27日。3月20日宣布了Gen-2，一个基于同一论文的文生视频工具。"
+  },
+  "media": {
+    "url": "https://research.runwayml.com/videos/gen1/carrousel/astronaut.webm",
+    "credit": "<a href=\"https://research.runwayml.com/gen1\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/pdf/2302.03011.pdf\">论文</a>, <a href=\"https://research.runwayml.com/gen1\">网站</a>",
+    "thumbnail": "https://research.runwayml.com/videos/gen1/carrousel/astronaut.webm"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#4640f5"
+  }
+}

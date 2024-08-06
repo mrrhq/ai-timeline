@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2014,
+    "month": 6,
+    "day": 10
+  },
+  "text": {
+    "headline": "General Adversarial Network (GAN)",
+    "text": "一个用于在两个对抗神经网络之间生成图像的机器学习框架。"
+  },
+  "media": {
+    "url": "https://miro.medium.com/max/1316/1*AyzNHv-ftBzHQ2uwmwG08A.png",
+    "credit": "<a href=\"https://towardsdatascience.com/generative-adversarial-networks-gans-8fc303ad5fa1\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1406.2661\"> 论文 </a>",
+    "thumbnail": "https://miro.medium.com/max/1316/1*AyzNHv-ftBzHQ2uwmwG08A.png"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#ceb720"
+  }
+}

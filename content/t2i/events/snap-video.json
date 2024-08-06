@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 22
+  },
+  "text": {
+    "headline": "Snap Video",
+    "text": "Snapchat开发的文生视频模型。公司在图像/视频生成领域的首次尝试。"
+  },
+  "media": {
+    "url": "https://storage.googleapis.com/snap-snapvideo-website-cdn/video_samples/our_samples_teaser/b822d1a7-d931-4d7f-99ce-8a8282a7a7e7.mp4",
+    "credit": "<a href=\"https://snap-research.github.io/snapvideo/index.html\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2402.14797\">论文</a>, <a href=\"https://snap-research.github.io/snapvideo/\">网站</a>",
+    "thumbnail": "https://storage.googleapis.com/snap-snapvideo-website-cdn/video_samples/our_samples_teaser/b822d1a7-d931-4d7f-99ce-8a8282a7a7e7.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#dfdb00"
+  }
+}

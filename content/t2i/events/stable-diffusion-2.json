@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 24
+  },
+  "text": {
+    "headline": "Stable Diffusion 2",
+    "text": "Stable Diffusion的更新版本，与v1相比一切都是开源的。v1使用OpenAI的CLIP，v2使用由LAION开发并由Stability AI支持的OpenCLIP。"
+  },
+  "media": {
+    "url": "https://github.com/Stability-AI/stablediffusion/raw/main/assets/stable-samples/txt2img/768/merged-0005.png",
+    "credit": "<a href=\"https://github.com/Stability-AI/stablediffusion\"> 媒体来源</a>",
+    "caption": "<a href=\"https://stability.ai/blog/stable-diffusion-v2-release\"> 网站 </a>, <a href=\"https://github.com/Stability-AI/stablediffusion\"> GITHUB </a>",
+    "thumbnail": "https://github.com/Stability-AI/stablediffusion/raw/main/assets/stable-samples/txt2img/768/merged-0005.png"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#ca0927"
+  }
+}

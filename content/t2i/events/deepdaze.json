@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 10
+  },
+  "text": {
+    "headline": "DeepDaze",
+    "text": "首个使用CLIP的开源模型，与SIREN（正弦表示网络）配对。由Ryan Murdock（@advadnoun）创建。"
+  },
+  "media": {
+    "url": "https://preview.redd.it/41bvvncplrb61.png?width=512&format=png&auto=webp&s=da3e316ce923fefb08771c956e23e9f7cd7c7c8b",
+    "credit": "<a href=\"https://www.reddit.com/r/MachineLearning/comments/ky8fq8/p_a_colab_notebook_from_ryan_murdock_that_creates/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://twitter.com/advadnoun/status/1348375026697834496\"> FIRST TWEET </a>, <a href=\"https://github.com/lucidrains/deep-daze\"> GITHUB </a>",
+    "thumbnail": "https://cdn.openai.com/research-covers/clip/2x-no-mark.jpg"
+  },
+  "group": "Other",
+  "background": {
+    "color": "#5a2865"
+  }
+}

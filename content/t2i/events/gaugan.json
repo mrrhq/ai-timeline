@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 18
+  },
+  "text": {
+    "headline": "GauGAN",
+    "text": "NVIDIA通过标签图生成真实景观的GAN。2021年发布的GauGAN2现由NVIDIA Canvas提供支持。"
+  },
+  "media": {
+    "url": "https://blogs.nvidia.com/wp-content/uploads/2019/03/guagan-demo-2x-speedup_1_1.mp4",
+    "credit": "<a href=\"https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1903.07291\"> 论文 </a>, <a href=\"https://www.nvidia.com/en-us/studio/canvas/\"> APP </a>",
+    "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2019/03/guagan-demo-2x-speedup_1_1.mp4"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#76b52c"
+  }
+}

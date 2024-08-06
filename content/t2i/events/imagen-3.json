@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 5,
+    "day": 14
+  },
+  "text": {
+    "headline": "Imagen 3",
+    "text": "谷歌的第三代文生图模型Imagen，可在其ImageFX网站上使用。"
+  },
+  "media": {
+    "url": "https://lh3.googleusercontent.com/UV358yng5Em7XB5nUOsIHFwK93YkdaXjxGf5c0T1H6zBAikVG2z6AubTjpyp0oLr41W6ge7bBsJlEfx7tGwhi21QNo1vlaKnWLdEPdIohJ5TNllDUg=h1200-rw",
+    "credit": "<a href=\"https://deepmind.google/technologies/imagen-3/\">媒体来源</a>",
+    "caption": "<a href=\"https://deepmind.google/technologies/imagen-3/\">网站</a>",
+    "thumbnail": "https://lh3.googleusercontent.com/UV358yng5Em7XB5nUOsIHFwK93YkdaXjxGf5c0T1H6zBAikVG2z6AubTjpyp0oLr41W6ge7bBsJlEfx7tGwhi21QNo1vlaKnWLdEPdIohJ5TNllDUg=h1200-rw"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#4388f0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2017,
+    "month": 3,
+    "day": 30
+  },
+  "text": {
+    "headline": "CycleGAN",
+    "text": "一种能够将图像内容更改为另一个类别的GAN类型。"
+  },
+  "media": {
+    "url": "https://miro.medium.com/max/896/1*dWd0lVTbnu80UZM641gCbw.gif",
+    "credit": "<a href=\"https://medium.com/coding-blocks/introduction-to-cyclegans-1dbdb8fbe781\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1703.10593v2\"> 论文 </a>",
+    "thumbnail": "https://miro.medium.com/max/896/1*dWd0lVTbnu80UZM641gCbw.gif"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#92ac67"
+  }
+}

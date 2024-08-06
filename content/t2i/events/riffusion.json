@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 15
+  },
+  "text": {
+    "headline": "Riffusion",
+    "text": "一个微调在可翻译为音频文件的频谱图像上的文生图Stable Diffusion模型。"
+  },
+  "media": {
+    "url": "https://www.riffusion.com/_next/image?url=%2Fabout%2Ffunky_sax.gif&w=640&q=75",
+    "credit": "<a href=\"https://www.riffusion.com/about\"> 媒体来源</a>",
+    "caption": "<a href=\"https://www.riffusion.com/\">网站</a>",
+    "thumbnail": "https://www.riffusion.com/_next/image?url=%2Fabout%2Ffunky_sax.gif&w=640&q=75"
+  },
+  "group": "Other",
+  "background": {
+    "color": "#112240"
+  }
+}

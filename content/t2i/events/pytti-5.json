@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 20
+  },
+  "text": {
+    "headline": "Pytti 5",
+    "text": "一个由sportsracer48创建的基于VQGAN的笔记本，在Patreon上作为封闭测试版提供。基于Katherine Crowson的笔记本，Pytti 5以创建迷幻动画而闻名。"
+  },
+  "media": {
+    "url": "https://raw.githubusercontent.com/dmarx/pytti-settings-test/main/images_out/permutations_limited_palette_2D_palettes-10_palette_size-3_gamma-0_hdr_weight-0_smoothing_weight-0_palette_normalization_weight-0/permutations_limited_palette_2D_palettes-10_palette_size-3_gamma-0_hdr_weight-0_smoothing_weight-0_palette_normalization_weight-0_21.png",
+    "credit": "<a href=\"https://pytti-tools.github.io/pytti-book/widget_understanding_limited_palette.html\"> 媒体来源</a>",
+    "caption": "<a href=\"https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb\"> COLAB </a>",
+    "thumbnail": "https://raw.githubusercontent.com/dmarx/pytti-settings-test/main/images_out/permutations_limited_palette_2D_palettes-10_palette_size-3_gamma-0_hdr_weight-0_smoothing_weight-0_palette_normalization_weight-0/permutations_limited_palette_2D_palettes-10_palette_size-3_gamma-0_hdr_weight-0_smoothing_weight-0_palette_normalization_weight-0_21.png"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#191054"
+  }
+}

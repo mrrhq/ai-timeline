@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 5,
+    "day": 26
+  },
+  "text": {
+    "headline": "CogView",
+    "text": "类似DALL·E的简体中文文生图模型。"
+  },
+  "media": {
+    "url": "https://p6-tt.byteimg.com/origin/pgc-image/375fc86a1a9945bab6b7d1f843e5cc74?from=pc",
+    "credit": "<a href=\"https://www.52cv.net/?p=7281\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2105.13290\r\n\"> 论文 </a>, <a href=\"https://models.aminer.cn/CogView/index.html\"> DEMO </a>",
+    "thumbnail": "https://p6-tt.byteimg.com/origin/pgc-image/375fc86a1a9945bab6b7d1f843e5cc74?from=pc"
+  },
+  "group": "VQ-VAE",
+  "background": {
+    "color": "#12112a"
+  }
+}

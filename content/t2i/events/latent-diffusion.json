@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 20
+  },
+  "text": {
+    "headline": "Latent Diffusion",
+    "text": "由CompVis开发的文生图模型。"
+  },
+  "media": {
+    "url": "https://github.com/CompVis/latent-diffusion/raw/main/assets/txt2img-preview.png",
+    "credit": "<a href=\"https://github.com/CompVis/latent-diffusion\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2112.10752\"> 论文 </a>, <a href=\"https://github.com/CompVis/latent-diffusion\"> GITHUB </a>, <a href=\"https://colab.research.google.com/github/multimodalart/latent-diffusion-notebook/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image.ipynb#scrollTo=NUmmV5ZvrPbP\"> COLAB </a>",
+    "thumbnail": "https://github.com/CompVis/latent-diffusion/raw/main/assets/txt2img-preview.png"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#e1a240"
+  }
+}

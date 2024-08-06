@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 1,
+    "day": 23
+  },
+  "text": {
+    "headline": "Lumiere",
+    "text": "谷歌的生成视频扩散模型。"
+  },
+  "media": {
+    "url": "https://lumiere-video.github.io/videos/stylization/wooden_woman.mp4",
+    "credit": "<a href=\"https://lumiere-video.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2401.12945v1\">论文</a>, <a href=\"https://lumiere-video.github.io/\">网站</a>",
+    "thumbnail": "https://lumiere-video.github.io/images/Girl_with_a_Pearl_Earring.jpg"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4388f0"
+  }
+}

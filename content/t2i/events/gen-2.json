@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 20
+  },
+  "text": {
+    "headline": "Gen-2",
+    "text": "RunwayML的文生视频工具。基于与一个月前发布的video2video工具Gen-1相同的论文。"
+  },
+  "media": {
+    "url": "https://d3phaj0sisr2ct.cloudfront.net/research/gen1/videos/eugene/eugene.webm",
+    "credit": "<a href=\"https://research.runwayml.com/gen2\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/pdf/2302.03011.pdf\">论文</a>, <a href=\"https://research.runwayml.com/gen2\">网站</a>",
+    "thumbnail": "https://d3phaj0sisr2ct.cloudfront.net/research/gen1/videos/eugene/eugene.webm"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4640f5"
+  }
+}

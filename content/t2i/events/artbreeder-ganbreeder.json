@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2019,
+    "month": 11,
+    "day": 19
+  },
+  "text": {
+    "headline": "Artbreeder (GANBreeder)",
+    "text": "一个工具，能够在现实肖像或动漫面孔等类别中通过图像和特征参数进行杂交。由StyleGAN和BigGAN提供支持。"
+  },
+  "media": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Artbreeder_example_portraits.jpg",
+    "credit": "<a href=\"https://en.wikipedia.org/wiki/Artbreeder\"> 媒体来源</a>",
+    "caption": "<a href=\"https://twitter.com/_joelsimon/status/1064556101717377025?s=20&t=2UcEsr1FvaibST3v9QLlvQ\"> FIRST TWEET </a>, <a href=\"https://www.artbreeder.com/\"> 网站 </a>",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Artbreeder_example_portraits.jpg"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#fa9dfd"
+  }
+}

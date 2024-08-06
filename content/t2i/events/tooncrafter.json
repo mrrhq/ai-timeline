@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 5,
+    "day": 28
+  },
+  "text": {
+    "headline": "ToonCrafter",
+    "text": "生成动画插帧的生成模型，能够生成两帧或多帧图像之间的插帧。与其他插帧模型不同，这是由生成视频模型驱动的，能够预测更准确的运动。它还可以为草图上色。"
+  },
+  "media": {
+    "url": "https://doubiiu.github.io/projects/ToonCrafter/02comparison/Japan_v2_1_070321_s3_frame1/Japan_v2_1_070321_s3_frame1_Ours.mp4",
+    "credit": "<a href=\"https://doubiiu.github.io/projects/ToonCrafter/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2405.17933v1\">论文</a>, <a href=\"https://doubiiu.github.io/projects/ToonCrafter/\">网站</a>, <a href=\"https://huggingface.co/spaces/Doubiiu/tooncrafter\">演示</a>",
+    "thumbnail": "https://doubiiu.github.io/projects/ToonCrafter/02comparison/Japan_v2_1_070321_s3_frame1/Japan_v2_1_070321_s3_frame1_Ours.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#273118"
+  }
+}

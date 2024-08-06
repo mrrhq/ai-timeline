@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 20
+  },
+  "text": {
+    "headline": "Centipede Diffusion",
+    "text": "正如名字所暗示的，这个笔记本结合了两个扩散模型的优势。潜在扩散在连贯性方面表现良好，而Disco Diffusion在艺术性方面更好，结合后它们创造了一个中间地带。"
+  },
+  "media": {
+    "url": "https://preview.redd.it/gzrl97a9unu81.png?width=768&format=png&auto=webp&s=14d28ef1b59fadf844348a687fa69734feb88ec8",
+    "credit": "<a href=\"https://www.reddit.com/r/bigsleep/comments/u7tasn/centipede_diffusion_notebook/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://www.reddit.com/r/bigsleep/comments/u7tasn/centipede_diffusion_notebook/\"> FIRST POST </a>, <a href=\"https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb\"> COLAB </a>",
+    "thumbnail": "https://preview.redd.it/gzrl97a9unu81.png?width=768&format=png&auto=webp&s=14d28ef1b59fadf844348a687fa69734feb88ec8"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#e4a734"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 17
+  },
+  "text": {
+    "headline": "Gen-3 Alpha",
+    "text": "Runway开发的生成视频模型，继Gen-1和Gen-2之后。其两个前辈的改进版本，Gen-3 Alpha承诺可以自定义模型以进行风格控制。仅对其网站上的付费用户开放。"
+  },
+  "media": {
+    "url": "https://d3phaj0sisr2ct.cloudfront.net/site/videos/gen-3-alpha/carousel-01/gen-3-alpha-output-001.mp4",
+    "credit": "<a href=\"https://runwayml.com/blog/introducing-gen-3-alpha/\">媒体来源</a>",
+    "caption": "<a href=\"https://runwayml.com/blog/introducing-gen-3-alpha/\">网站</a>",
+    "thumbnail": "https://d3phaj0sisr2ct.cloudfront.net/site/videos/gen-3-alpha/carousel-01/gen-3-alpha-output-001.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4640f5"
+  }
+}

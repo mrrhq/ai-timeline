@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 26
+  },
+  "text": {
+    "headline": "CLIP Guided Diffusion",
+    "text": "虽然是指与CLIP一起工作的扩散模型的通用术语，但这是第一个CLIP引导的扩散模型。由Katherine Crowson（@RiversHaveWings）创建。"
+  },
+  "media": {
+    "url": "https://live.staticflickr.com/65535/51350255352_6c1e592c26_o.png",
+    "credit": "<a href=\"https://softologyblog.wordpress.com/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://github.com/afiaka87/clip-guided-diffusion\r\n\"> GITHUB </a>, <a href=\"https://twitter.com/RiversHaveWings/status/1419674445044539400\"> FIRST TWEET </a>, <a href=\"https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3\"> COLAB </a>",
+    "thumbnail": "https://live.staticflickr.com/65535/51350255352_6c1e592c26_o.png"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#12443b"
+  }
+}

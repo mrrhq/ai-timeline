@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 31
+  },
+  "text": {
+    "headline": "Vidu",
+    "text": "生数科技携手清华大学研发出的视频生成模型，早在4月28号时就公布了演示，号称国内第一个类 Sora 模型，上线后免费用户支持生成4秒视频"
+  },
+  "media": {
+    "url": "https://www.vidu.studio/vidu.mp4",
+    "credit": "<a href=\"https://vidu.studio\">媒体来源</a>",
+    "caption": "<a href=\"https://www.vidu.studio/\">网站</a>",
+    "thumbnail": "https://www.vidu.studio/vidu.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#416bfb"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 6
+  },
+  "text": {
+    "headline": "KLING",
+    "text": "快手开发的文生视频模型，第一个严肃的Sora竞争对手，能够生成长达2分钟的视频。此外可以通过OpenPose骨架输入提示（主要用于舞蹈）。在其应用内加入候补名单的用户可用。"
+  },
+  "media": {
+    "url": "https://the-decoder.com/wp-content/uploads/2024/06/chinese_boy_eating_burger_prompt.mp4",
+    "credit": "<a href=\"https://the-decoder.com/kling-is-the-latest-ai-video-generator-that-could-compete-with-openai-sora/\">媒体来源</a>",
+    "caption": "<a href=\"https://kling.kuaishou.com/\">网站</a>",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/06/chinese_boy_eating_burger_prompt.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#fc4b08"
+  }
+}

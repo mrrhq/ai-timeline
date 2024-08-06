@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 27
+  },
+  "text": {
+    "headline": "MagicAnimate",
+    "text": "一个视频生成模型，将图像的主体转移到视频的人物主体的动作上。"
+  },
+  "media": {
+    "url": "https://github.com/magic-research/magic-animate/raw/main/assets/teaser/t4.gif",
+    "credit": "<a href=\"https://github.com/magic-research/magic-animate\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2311.16498\">论文</a>, <a href=\"https://github.com/magic-research/magic-animate\">GITHUB</a>",
+    "thumbnail": "https://github.com/magic-research/magic-animate/raw/main/assets/teaser/t4.gif"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#3a064e"
+  }
+}

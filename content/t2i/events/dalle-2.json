@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 7
+  },
+  "text": {
+    "headline": "DALL·E 2",
+    "text": "OpenAI最大规模的文生图模型发布。可以通过付费积分系统生成。"
+  },
+  "media": {
+    "url": "https://cdn.openai.com/dall-e-2/demos/text2im/astronaut/horse/photo/0.jpg",
+    "credit": "<a href=\"https://openai.com/dall-e-2/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://openai.com/dall-e-2/\"> 网站 </a>",
+    "thumbnail": "https://cdn.openai.com/dall-e-2/demos/text2im/astronaut/horse/photo/0.jpg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#4c46f0"
+  }
+}

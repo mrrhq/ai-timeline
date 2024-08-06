@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 19
+  },
+  "text": {
+    "headline": "ModelScope Text2Video Synthesis",
+    "text": "一个通过英语提示生成2秒视频的文生视频模型。由同名的中国模型即服务库发布，由阿里巴巴拥有。"
+  },
+  "media": {
+    "url": "https://www.modelscope.cn/api/v1/models/damo/cv_diffusion_text-to-video-synthesis/repo?Revision=master&FilePath=./samples/A_litter_of_puppies_running_through_the_yard.gif&View=true",
+    "credit": "<a href=\"https://www.modelscope.cn/models/damo/cv_diffusion_text-to-video-synthesis/summary\">媒体来源</a>",
+    "caption": "<a href=\"https://www.modelscope.cn/models/damo/cv_diffusion_text-to-video-synthesis/summary\">网站</a>, <a href=\"https://github.com/modelscope/modelscope\">GITHUB</a>, <a href=\"https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis\">演示</a>",
+    "thumbnail": "https://www.modelscope.cn/api/v1/models/damo/cv_diffusion_text-to-video-synthesis/repo?Revision=master&FilePath=./samples/A_litter_of_puppies_running_through_the_yard.gif&View=true"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#5e4bf6"
+  }
+}

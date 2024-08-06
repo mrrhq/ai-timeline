@@ -1,0 +1,12 @@
+{
+  "text": {
+    "headline": "AI 生图模型发展史",
+    "text": "一个记录了生成式 AI 中的文生图、文生视频模型等不同技术重要时间点的发展史。\n Fork 自 Fabian Mosele"
+  },
+  "media": {
+    "url": "/t2i/cover.jpg"
+  },
+  "background": {
+    "color": "#39167a"
+  }
+}

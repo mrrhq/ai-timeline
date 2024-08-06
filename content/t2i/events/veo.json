@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 5,
+    "day": 14
+  },
+  "text": {
+    "headline": "Veo",
+    "text": "谷歌的文生视频模型，能够从文本、图像和视频输入生成视频。目前仅通过加入候补名单可用。"
+  },
+  "media": {
+    "url": "https://deepmind.google/api/blob/website/media/veo_example_043_alpacas.mp4",
+    "credit": "<a href=\"https://deepmind.google/technologies/veo/\">媒体来源</a>",
+    "caption": "<a href=\"https://deepmind.google/technologies/veo/\">网站</a>",
+    "thumbnail": "https://deepmind.google/api/blob/website/media/veo_example_043_alpacas.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4388f0"
+  }
+}

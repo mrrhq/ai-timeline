@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 21
+  },
+  "text": {
+    "headline": "DALL·E Mini (Craiyon)",
+    "text": "由Boris Dayma开发的文生图模型，试图成为DALL·E 2的开源版本。因模因在AI社区之外获得人气，因与OpenAI的法律纠纷后更名为Craiyon。"
+  },
+  "media": {
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/002/383/640/bb9",
+    "credit": "<a href=\"https://knowyourmeme.com/memes/sites/dall-e-mini-craiyon\"> 媒体来源</a>",
+    "caption": "<a href=\"https://github.com/borisdayma/dalle-mini/\"> GITHUB </a>, <a href=\"https://www.craiyon.com/\"> 网站 </a>, <a href=\"https://knowyourmeme.com/memes/sites/dall-e-mini-craiyon\"> KNOWYOURMEME </a>",
+    "thumbnail": "https://i.kym-cdn.com/photos/images/newsfeed/002/383/640/bb9"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#f7732a"
+  }
+}

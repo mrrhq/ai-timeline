@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 6
+  },
+  "text": {
+    "headline": "CogVideoX",
+    "text": "CogVideoX 是由智谱开源的与其清影模型同源的文生视频系列模型，目前只开源了 2B 模型，能生成 6 秒长，8帧/秒的视频"
+  },
+  "media": {
+    "url": "https://github.com/THUDM/CogVideo/raw/main/resources/videos/1.mp4",
+    "credit": "<a href=\"https://github.com/THUDM/CogVideo\">媒体来源</a>",
+    "caption": "<a href=\"https://chatglm.cn/video\">网站</a>\r\n<a href=\"https://github.com/THUDM/CogVideo\">GITHUB</a>\r\n<a href=\"https://huggingface.co/spaces/THUDM/CogVideoX\">HUGGINGFACE</a>\r\n<a href=\"https://github.com/THUDM/CogVideo\">演示</a>\r\n<a href=\"https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf\">论文</a>",
+    "thumbnail": ""
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#0746ff"
+  }
+}

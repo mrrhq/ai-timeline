@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 28
+  },
+  "text": {
+    "headline": "CogView2",
+    "text": "CogView的继任者，这个文生图模型支持中文和英语。"
+  },
+  "media": {
+    "url": "https://replicate.com/api/models/thudm/cogview2/files/3281b937-45ae-4ceb-a66f-a2219f71bbea/output_4.png",
+    "credit": "<a href=\"https://replicate.com/thudm/cogview2\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2204.14217\"> 论文 </a>, <a href=\"https://github.com/THUDM/CogView2\"> GITHUB </a>, <a href=\"https://huggingface.co/spaces/THUDM/CogView2\"> DEMO </a>",
+    "thumbnail": "https://replicate.com/api/models/thudm/cogview2/files/3281b937-45ae-4ceb-a66f-a2219f71bbea/output_4.png"
+  },
+  "group": "VQ-VAE",
+  "background": {
+    "color": "#12112a"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 13
+  },
+  "text": {
+    "headline": "Boximator",
+    "text": "ByteDance开发的用于视频扩散模型的运动控制插件。通过框定不同元素的运动的边界框，可以详细控制生成视频的运动。"
+  },
+  "media": {
+    "url": "https://boximator.github.io/assets/C2V/9-A%20girl%20in%20red%20is%20covering%20her%20face%20with%20a%20skull..mp4",
+    "credit": "<a href=\"https://boximator.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2402.01566\">论文</a>, <a href=\"https://boximator.github.io/\">GITHUB</a>",
+    "thumbnail": "https://boximator.github.io/assets/C2V/9-A%20girl%20in%20red%20is%20covering%20her%20face%20with%20a%20skull..mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#da3d27"
+  }
+}

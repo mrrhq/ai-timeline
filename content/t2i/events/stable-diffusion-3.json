@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 22
+  },
+  "text": {
+    "headline": "Stable Diffusion 3",
+    "text": "Stability AI开发的最受欢迎的开源图像生成模型Stable Diffusion的第三代。虽然模型尚未发布，但已开放早期预览候补名单。"
+  },
+  "media": {
+    "url": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/c24904d4-f0f0-4a26-9470-fec227dde15c/image-90.png?format=1500w",
+    "credit": "<a href=\"https://stability.ai/news/stable-diffusion-3\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/pdf/2403.03206.pdf\">论文</a>, <a href=\"https://stability.ai/news/stable-diffusion-3\">ARTICLE</a>",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/c24904d4-f0f0-4a26-9470-fec227dde15c/image-90.png?format=1500w"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#ca0927"
+  }
+}

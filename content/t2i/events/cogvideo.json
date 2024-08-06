@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 5,
+    "day": 29
+  },
+  "text": {
+    "headline": "CogVideo",
+    "text": "由CogView的创建者开发，CogVideo是一个可以生成短GIF的中文文生视频模型。"
+  },
+  "media": {
+    "url": "https://wudao.aminer.cn/cogvideo_images/%E7%B3%BB%E5%88%974/41_%E5%A5%B3%E4%BA%BA%E5%9C%A8%E5%86%AC%E5%A4%A9%E6%95%A3%E6%AD%A5/3.gif",
+    "credit": "<a href=\"https://github.com/THUDM/CogVideo\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2205.15868\"> 论文 </a>, <a href=\"https://github.com/THUDM/CogVideo\"> GITHUB </a>, <a href=\"https://models.aminer.cn/cogvideo/\"> 网站 </a>",
+    "thumbnail": "https://wudao.aminer.cn/cogvideo_images/%E7%B3%BB%E5%88%974/41_%E5%A5%B3%E4%BA%BA%E5%9C%A8%E5%86%AC%E5%A4%A9%E6%95%A3%E6%AD%A5/3.gif"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#12112a"
+  }
+}

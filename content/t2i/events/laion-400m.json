@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2021,
+    "month": 8,
+    "day": 8
+  },
+  "text": {
+    "headline": "LAION-400M",
+    "text": "一个开放的数据集，包含2014年至2021年间随机网页的文本图像对，通过OpenAI的CLIP过滤。"
+  },
+  "media": {
+    "url": "https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/61e9cecf1ccbd5180cb79e69_7CFUx6h.png",
+    "credit": "<a href=\"https://www.v7labs.com/open-datasets/laion-400m\"> 媒体来源</a>",
+    "caption": "<a href=https://laion.ai/blog/\"> 网站 </a>",
+    "thumbnail": "https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/61e9cecf1ccbd5180cb79e69_7CFUx6h.png"
+  },
+  "group": "Dataset",
+  "background": {
+    "color": "#ca0927"
+  }
+}

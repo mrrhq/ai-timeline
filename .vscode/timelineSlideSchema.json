@@ -1,0 +1,137 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TimelineJS JSON Schema",
+  "type": "object",
+  "$ref": "#/definitions/slide",
+  "definitions": {
+    "slide": {
+      "type": "object",
+      "properties": {
+        "start_date": {
+          "$ref": "#/definitions/date"
+        },
+        "end_date": {
+          "$ref": "#/definitions/date"
+        },
+        "text": {
+          "$ref": "#/definitions/text"
+        },
+        "media": {
+          "$ref": "#/definitions/media"
+        },
+        "group": {
+          "type": "string"
+        },
+        "display_date": {
+          "type": "string"
+        },
+        "background": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "alt": {
+              "type": "string"
+            },
+            "color": {
+              "type": "string"
+            }
+          }
+        },
+        "autolink": {
+          "type": "boolean"
+        },
+        "unique_id": {
+          "type": "string"
+        }
+      }
+    },
+    "date": {
+      "type": "object",
+      "properties": {
+        "year": {
+          "type": "integer"
+        },
+        "month": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 12
+        },
+        "day": {
+          "type": "integer"
+        },
+        "hour": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 23
+        },
+        "minute": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 59
+        },
+        "second": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 59
+        },
+        "millisecond": {
+          "type": "integer"
+        },
+        "display_date": {
+          "type": "string"
+        },
+        "format": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "year"
+      ]
+    },
+    "text": {
+      "type": "object",
+      "properties": {
+        "headline": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "media": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "caption": {
+          "type": "string"
+        },
+        "credit": {
+          "type": "string"
+        },
+        "thumbnail": {
+          "type": "string"
+        },
+        "alt": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "link": {
+          "type": "string"
+        },
+        "link_target": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "url"
+      ]
+    }
+  }
+}

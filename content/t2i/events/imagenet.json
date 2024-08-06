@@ -1,0 +1,26 @@
+{
+  "start_date": {
+    "year": 2009,
+    "month": 6,
+    "day": 20
+  },
+  "text": {
+    "headline": "ImageNet",
+    "text": "包含超过1400万张图像的数据集，所有图像都有人工标注的内容描述。当时最大的图像数据集，推动了计算机视觉研究的发展。"
+  },
+  "media": {
+    "url": "https://devopedia.org/images/article/172/7316.1561043304.png",
+    "credit": "<a href=\"https://devopedia.org/imagenet\"> 媒体来源</a>",
+    "caption": "<a href=\"https://image-net.org/static_files/papers/imagenet_cvpr09.pdf\"> 论文 </a>",
+    "thumbnail": "https://devopedia.org/images/article/172/7316.1561043304.png"
+  },
+  "group": "Dataset",
+  "background": {
+    "color": "#8eb1d5"
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 6,
+    "day": 25
+  }
+}

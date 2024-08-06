@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 1998,
+    "month": 0,
+    "day": 0
+  },
+  "text": {
+    "headline": "LeNet-5",
+    "text": "最早的卷积神经网络之一，设计用于手写和机器打印字符识别。"
+  },
+  "media": {
+    "url": "https://www.researchgate.net/profile/Vina-Ayumi/publication/308788359/figure/fig1/AS:412924624556032@1475460310318/Architecture-of-CNN-by-LeCun-et-al-LeNet5.png",
+    "credit": "<a href=\"https://www.researchgate.net/figure/Architecture-of-LeNet-5_fig3_313808170\"> 媒体来源</a>",
+    "caption": "<a href=\"http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf\"> 论文 </a>",
+    "thumbnail": "https://www.researchgate.net/profile/Vina-Ayumi/publication/308788359/figure/fig1/AS:412924624556032@1475460310318/Architecture-of-CNN-by-LeCun-et-al-LeNet5.png"
+  },
+  "group": "CNN Model",
+  "background": {
+    "color": "#303030"
+  }
+}

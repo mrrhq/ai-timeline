@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 17
+  },
+  "text": {
+    "headline": "InstructPix2Pix",
+    "text": "一个通过Stable Diffusion和GPT-3生成的数据训练的模型，可以根据人类指令编辑图像。"
+  },
+  "media": {
+    "url": "https://instruct-pix2pix.timothybrooks.com/teaser.jpg",
+    "credit": "<a href=\"https://www.timothybrooks.com/instruct-pix2pix\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2211.09800v1\">论文 </a>, <a href=\"https://www.timothybrooks.com/instruct-pix2pix\">网站 </a>, <a href=\"https://huggingface.co/spaces/timbrooks/instruct-pix2pix\">DEMO </a>",
+    "thumbnail": "https://instruct-pix2pix.timothybrooks.com/teaser.jpg"
+  },
+  "group": "Diffusion Model",
+  "background": {
+    "color": "#cc7120"
+  }
+}

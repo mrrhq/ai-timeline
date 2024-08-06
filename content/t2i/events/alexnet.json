@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2012,
+    "month": 9,
+    "day": 12
+  },
+  "text": {
+    "headline": "AlexNet",
+    "text": "在2012年ImageNet竞赛（ILSVRC12）中，这个卷积神经网络革新了图像分类的方式。"
+  },
+  "media": {
+    "url": "https://lh6.googleusercontent.com/UHM_RdQEmlv6Y28gvKxBLrUTgvgQuS8aH8oLIm0VZJZ2n7AJuF9sX3LfmzFDFXZMfoiJCLTT9HZpC6C0x0jeUAXog1pQdE3G1YOt1HpT8exDsddJsnEiWkczEkdekOrROZnB2j2r",
+    "credit": "<a href=\"https://blog.paperspace.com/popular-deep-learning-architectures-alexnet-vgg-googlenet/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf\"> 论文 </a>",
+    "thumbnail": "https://lh6.googleusercontent.com/UHM_RdQEmlv6Y28gvKxBLrUTgvgQuS8aH8oLIm0VZJZ2n7AJuF9sX3LfmzFDFXZMfoiJCLTT9HZpC6C0x0jeUAXog1pQdE3G1YOt1HpT8exDsddJsnEiWkczEkdekOrROZnB2j2r"
+  },
+  "group": "CNN Model",
+  "background": {
+    "color": "#fdaaab"
+  }
+}

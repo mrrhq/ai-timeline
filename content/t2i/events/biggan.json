@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2018,
+    "month": 9,
+    "day": 28
+  },
+  "text": {
+    "headline": "BigGAN",
+    "text": "一个能够生成多个类别图像的大规模GAN。"
+  },
+  "media": {
+    "url": "https://machinelearningmastery.com/wp-content/uploads/2019/06/Examples-of-Large-High-Quality-512x512-Class-Conditional-Images-Generated-by-BigGAN.png",
+    "credit": "<a href=\"https://machinelearningmastery.com/a-gentle-introduction-to-the-biggan/\"> 媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1809.11096v2\"> 论文 </a>",
+    "thumbnail": "https://machinelearningmastery.com/wp-content/uploads/2019/06/Examples-of-Large-High-Quality-512x512-Class-Conditional-Images-Generated-by-BigGAN.png"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#4fb342"
+  }
+}

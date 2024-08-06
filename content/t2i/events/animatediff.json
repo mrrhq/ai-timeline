@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2023,
+    "month": 7,
+    "day": 10
+  },
+  "text": {
+    "headline": "AnimateDiff",
+    "text": "通过Stable Diffusion模型生成视频的文生视频模型。"
+  },
+  "media": {
+    "url": "https://animatediff.github.io/animations/teaser/ani_01.mp4",
+    "credit": "<a href=\"https://animatediff.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2307.04725\">论文</a>, <a href=\"https://animatediff.github.io/\">GITHUB</a>",
+    "thumbnail": "https://animatediff.github.io/animations/teaser/ani_01.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#fa98ae"
+  }
+}

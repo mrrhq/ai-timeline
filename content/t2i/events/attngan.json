@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2017,
+    "month": 11,
+    "day": 28
+  },
+  "text": {
+    "headline": "AttnGAN",
+    "text": "最早基于生成对抗网络（GAN）的文生图模型之一。"
+  },
+  "media": {
+    "url": "https://github.com/taoxugit/AttnGAN/raw/master/example_coco.png",
+    "credit": "<a href=\"https://github.com/taoxugit/AttnGAN\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/1711.10485\">论文</a>, <a href=\"https://github.com/taoxugit/AttnGAN>GITHUB</a>",
+    "thumbnail": "https://github.com/taoxugit/AttnGAN/raw/master/example_coco.png"
+  },
+  "group": "GAN",
+  "background": {
+    "color": "#f59b2d"
+  }
+}
