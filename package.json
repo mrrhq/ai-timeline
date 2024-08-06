@@ -13,9 +13,7 @@
     "@knight-lab/timelinejs": "^3.9.3",
     "@mrrhq/shadcn-pro": "npm:@mrrhq/shadcn-pro-edge@latest",
     "@vueuse/core": "^10.11.0",
-    "csv": "^6.3.10",
     "nuxt": "^3.12.4",
-    "slug": "^9.1.0",
     "vue": "latest"
   },
   "devDependencies": {
