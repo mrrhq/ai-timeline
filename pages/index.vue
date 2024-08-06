@@ -64,7 +64,7 @@
             新标签打开
           </UiButton>
         </div>
-        <Card class="md:h-800px of-hidden">
+        <Card class="md:h-800px h-60vh of-hidden">
           <T2iTimeline />
         </Card>
       </div>
