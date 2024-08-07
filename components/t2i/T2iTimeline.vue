@@ -13,6 +13,6 @@ const data = computed(() => ({ title: title.value, events: events.value }));
   <Timeline3
     :data="data"
     :class="cn('w-full h-full', $attrs.class as any)"
-    :options="{ language: 'zh-cn1' }"
+    :options="{ language: 'zh-cn' }"
   />
 </template>

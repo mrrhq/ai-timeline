@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // @ts-expect-error
-import { Timeline } from "@knight-lab/timelinejs";
+import { Timeline } from "@knight-lab/timelinejs/src/js/timeline/Timeline.js";
 import "@knight-lab/timelinejs/dist/css/timeline.css";
 
 const props = defineProps<{
@@ -11,16 +11,15 @@ const props = defineProps<{
 const timelineEmbed = ref<HTMLDivElement>();
 const timeline = shallowRef();
 
-onMounted(() =>
-  nextTick(
-    () =>
-      (timeline.value = new Timeline(
-        timelineEmbed.value,
-        props.data,
-        props.options
-      ))
-  )
-);
+onMounted(async () => {
+  await nextTick(() => {
+    const options = {
+      ...props.options,
+      script_path: location.origin
+    }
+    timeline.value = new Timeline(timelineEmbed.value, props.data, options);
+  });
+});
 </script>
 
 <template>
