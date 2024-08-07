@@ -1,7 +1,12 @@
 {
+  "start_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 27
+  },
   "text": {
     "headline": "Show-1",
-    "text": "Showlab在新加坡国立大学开发的文生视频模型，具有更高效的GPU使用率。"
+    "text": "Showlab 在新加坡国立大学开发的文生视频模型，具有更高效的GPU使用率。"
   },
   "media": {
     "url": "https://showlab.github.io/Show-1/assets/videos/comparison/show1/05.mp4",
