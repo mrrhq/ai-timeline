@@ -1,5 +1,3 @@
-<script setup lang="ts"></script>
-
 <template>
   <UiContainer>
     <UiPage>
@@ -45,7 +43,7 @@
         </section>
       </div>
       <div>
-        <div class="mb-4 flex items-center">
+        <div class="mb-4 text-sm flex items-center">
           <NuxtLink
             to="/"
             class="flex items-center px-4 font-bold text-primary"
@@ -55,13 +53,9 @@
           <NuxtLink class="flex items-center px-4 color-muted-foreground">
             LLM（即将到来）
           </NuxtLink>
-          <UiButton
-            to="/t2i"
-            trailingIcon="i-ph:arrow-up-right-duotone"
-            variant="ghost"
-            class="ml-a"
-          >
-            新标签打开
+          <UiButton to="/t2i" size="sm" variant="ghost" class="z-10 right-0 top-0 ml-a">
+            <span class="hidden md:block">新标签打开</span>
+            <UiIcon name="i-ph:arrow-up-right-duotone"></UiIcon>
           </UiButton>
         </div>
         <Card class="md:h-800px h-60vh of-hidden">

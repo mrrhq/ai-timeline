@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { cn } from "#shadcn-pro/utils/shadcn.js";
 const { data: title } = await useAsyncData("t2i-title", () =>
   queryContent("/t2i").findOne()
 );

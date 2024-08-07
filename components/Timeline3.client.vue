@@ -15,10 +15,14 @@ onMounted(async () => {
   await nextTick(() => {
     const options = {
       ...props.options,
-      script_path: location.origin
-    }
+      script_path: location.origin,
+    };
     timeline.value = new Timeline(timelineEmbed.value, props.data, options);
   });
+});
+
+defineExpose({
+  timeline,
 });
 </script>
 
